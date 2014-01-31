@@ -1,4 +1,4 @@
-Data Munging: Temperature Monitor Kata
+Sudoku Valditor
 =========
 
 Your Task:
@@ -24,7 +24,9 @@ $ sudoku-validator ./invalid_incomplete.sudoku
 
 $ sudoku-validator ./invalid_incomplete.sudoku
   This sudoku is invalid.
+  
 ```
+
 A Sudoku is valid if:
   - it has no duplicates in a row
   - it has no duplicates in a column
