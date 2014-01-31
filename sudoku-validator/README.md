@@ -1,4 +1,4 @@
-Sudoku Valditor
+Sudoku Validator
 =========
 
 Your Task:
@@ -8,7 +8,7 @@ to fill a 9x9 grid with digits so that each column, each row, and each of the
 nine 3x3 sub-grids that compose the grid contains all of the digits from 1 to 9.
 
 Write a command-line program that can read a file containing a sudoku grid and
-validates it. The grid can be partially or completely solved. It either gives a
+validate it. The grid can be partially or completely solved. It either gives a
 success message or a list of errors and their positions.
 
 Sample Usage:
