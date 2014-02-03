@@ -228,3 +228,4 @@ Use Case 4:
                            
 => 490867715 
 ```
+Thank you http://codingdojo.org/cgi-bin/wiki.pl?KataBankOCR for this kata!
