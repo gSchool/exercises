@@ -1,7 +1,7 @@
 Gilded Rose Refactoring Kata
 =========
 
-Clone the gilded rose repository from here:
+Clone the gilded rose repository like this:
 ```ruby
 git clone git@github.com:professor/GildedRose.git
 ```
