@@ -1,0 +1,3 @@
+BankOCR Kata
+=========
+
