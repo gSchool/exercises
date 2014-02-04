@@ -38,5 +38,5 @@ There are four sample sudoku files in this repo that you can use as input/test
 fixtures. They cover the permutations of valid/invalid and complete/incomplete
 
 Thank you thoughtbot for this exercise
-https://github.com/thoughtbot/sudoku_validator
+http://learn.thoughtbot.com 
 
